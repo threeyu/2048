@@ -1,1 +1,1 @@
-环境：Cocos2dx 3.2
+环境；Cocos2dx3.2 C++
